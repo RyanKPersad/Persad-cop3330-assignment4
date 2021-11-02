@@ -1,0 +1,48 @@
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class To-doListTest {
+    To-doList td = new To-doList
+    @Test
+    void getInstance(){
+    Should initilaize and return back the file
+
+
+
+    }
+    @Test
+    void TodoList() {
+    should assert equal the todo list array
+
+
+    }
+    @Test
+    void TodoList(){
+     Should assert equal the correct data
+
+    }
+    @Test
+    void addData(GetData item){
+    when user inputs data into text box it should be added
+
+    }
+    @Test
+    void loadTheData(){
+     Should open the file and load the data utilizing an array
+
+    }
+    @Test
+    void storeTodoItems(){
+    The data should be stored in a file
+
+    }
+    @Test
+    void deleteData(GetData item){
+    Should assert equal a removal of the data
+
+
+    }
+
+
+}
